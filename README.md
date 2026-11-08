@@ -1,40 +1,35 @@
 
-# Hi, I'm Yerko Aranda 👋
+# Yerko Aranda
 
-### IT Student | Networking & Infrastructure
+**IT Student | Networking & Infrastructure**
 
-I'm an IT student based in Santiago, Chile, with a strong interest in computer networks, Linux, IT infrastructure, and technical support.
+I'm an IT student based in Santiago, Chile, currently focusing on computer networking, Linux, and IT infrastructure.
 
-I enjoy understanding how systems work, configuring devices, and solving technical problems.
+I'm interested in understanding how systems work, configuring network devices, and solving technical problems through hands-on practice.
 
-## 🔧 Technical Skills & Learning
+## Technical Background
 
-**Hands-on experience**
-- Basic Windows configuration and end-user support
-- Software installation and troubleshooting
-- Git and GitHub fundamentals
+- **Networking:** TCP/IP fundamentals, IPv4, switching, and VLANs.
+- **Linux:** Ubuntu, command-line fundamentals, file permissions, and user management.
+- **Programming:** Python, JavaScript, and SQL.
+- **Tools:** Git, GitHub, and Cisco Packet Tracer.
+- **IT Support:** Windows configuration, software installation, and basic troubleshooting.
 
-**Currently learning**
-- Networking: TCP/IP, IPv4, VLANs and switching
-- Linux: Ubuntu, CLI, users and permissions
-- Python for programming and automation
-- Cisco Packet Tracer
+## Projects
 
-## 🧪 Hands-on Labs
+I use GitHub to document practical exercises, technical labs, and programming projects.
 
-I'm developing practical labs to strengthen my technical knowledge.
+My current areas of practice include:
 
-- **Networking Labs:** Switching, VLANs and connectivity
-- **Linux Labs:** Terminal, permissions and system administration
+- Network configuration and troubleshooting.
+- Linux system administration fundamentals.
+- Programming and automation.
 
-Projects and documentation will be published as they are completed.
+## Current Focus
 
-## 🎯 Professional Goals
+I'm strengthening my technical foundations in networking and Linux while preparing for an internship in IT infrastructure or technical support.
 
-I'm preparing for an internship in IT infrastructure, networking, or technical support.
+## Contact
 
-My goal is to build strong fundamentals and continue developing practical skills.
-
-## 📫 Connect with Me
-
-- GitHub: [@yarandam](https://github.com/yarandam)
+- **Location:** Santiago, Chile
+- **GitHub:** [yarandam](https://github.com/yarandam)
