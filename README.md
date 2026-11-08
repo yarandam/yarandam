@@ -3,19 +3,13 @@
 
 **IT Student | Networking & Infrastructure**
 
-<h3>Connect with me</h3>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/yerkoaranda/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/basicguy_af/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://x.com/basicguy_af" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-</p>
+### Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-475569?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yerkoaranda/)
+[![Instagram](https://img.shields.io/badge/Instagram-475569?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/basicguy_af/)
+[![X](https://img.shields.io/badge/X-475569?style=for-the-badge&logo=x&logoColor=white)](https://x.com/basicguy_af)
+
 
 
 I'm an IT student based in Santiago, Chile, currently focusing on computer networking, Linux, and IT infrastructure.
