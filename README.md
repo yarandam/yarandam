@@ -1,31 +1,40 @@
-# Hey there! 👋 I'm Yerko (@yarandam)
 
-Welcome to my GitHub profile! I'm a data enthusiast with a passion for backend development. I'm currently learning Japanese and diving deeper into the world of backend technologies.
+# Hi, I'm Yerko Aranda 👋
 
-## 🌱 What I'm Learning
+### IT Student | Networking & Infrastructure
 
-- **Backend Development:** Constantly honing my skills in Python, Golang, and JavaScript.
-- **Japanese:** Exploring a new language and culture one kanji at a time.
+I'm an IT student based in Santiago, Chile, with a strong interest in computer networks, Linux, IT infrastructure, and technical support.
 
-## 👀 What I'm Interested In
+I enjoy understanding how systems work, configuring devices, and solving technical problems.
 
-- **Data Analysis:** Turning raw data into meaningful insights.
-- **Sustainability Projects:** Using technology to drive positive change.
+## 🔧 Technical Skills & Learning
 
-## 💼 What I Do
+**Hands-on experience**
+- Basic Windows configuration and end-user support
+- Software installation and troubleshooting
+- Git and GitHub fundamentals
 
-- **Tech Explorer:** Continuously experimenting with new development systems and programming languages. I enjoy dissecting how different frameworks work and applying them to solve real-world problems.
+**Currently learning**
+- Networking: TCP/IP, IPv4, VLANs and switching
+- Linux: Ubuntu, CLI, users and permissions
+- Python for programming and automation
+- Cisco Packet Tracer
 
-## 💬 Get in Touch
+## 🧪 Hands-on Labs
 
-- 📫 **Email:** [yerkoaranda.22@gmail.com](mailto:yerkoaranda.22@gmail.com)
-- 🐦 **Twitter:** [@yarandam](https://twitter.com/yarandam)
-- 💼 **LinkedIn:** [Yerko Aranda](https://www.linkedin.com/in/yerko-aranda)
+I'm developing practical labs to strengthen my technical knowledge.
 
-## ⚡ Fun Fact
+- **Networking Labs:** Switching, VLANs and connectivity
+- **Linux Labs:** Terminal, permissions and system administration
 
-I’m always eager to dive into new programming languages and development systems. Whether it's mastering Python, Golang, or JavaScript, I find joy in continuously learning and expanding my toolkit.
+Projects and documentation will be published as they are completed.
 
----
+## 🎯 Professional Goals
 
-Feel free to explore my repositories, and don't hesitate to reach out if you're interested in collaborating on something innovative!
+I'm preparing for an internship in IT infrastructure, networking, or technical support.
+
+My goal is to build strong fundamentals and continue developing practical skills.
+
+## 📫 Connect with Me
+
+- GitHub: [@yarandam](https://github.com/yarandam)
